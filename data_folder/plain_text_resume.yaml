@@ -103,6 +103,26 @@ projects:
     description: "Developed a stock trading website using four different web technologies, featuring stock search and trading history, Created a simple homepage with HTML and CSS, and a feature-rich site using Flask, JavaScript, HTML, and CSS, Built a modern design site with React and Node.js, and a mobile app for Android using Kotlin and Node.js, MongoDB"
     link: "https://github.com/Shingo8843/Stock_Trading-Website_React_Nodejs_, https://github.com/Shingo8843/Stock_Trading_Kotlin_App"
 
+  - name: "Language Cushion Project"
+    description: "Developed a system to analyze and extract reliable information from text, images, and tables in medical documents, Utilized technologies like LLMs, OCR, Langchain, and NLPto enhance decision-making accuracy, Aimed to improve document analysis accuracy, with potential applications across various industries"
+    link: ""
+
+  - name: "Text-to-SQL Optimization Project"
+    description: "Conducted experiments on Text-to-SQL to optimize data processes on Vertex AI (Google Cloud) with BigQuery, Utilized technologies like LLMs, OCR, Langchain, and NLPto enhance decision-making accuracy, Aimed to improve document analysis accuracy, with potential applications across various industries"
+    link: ""
+
+  - name: "Job-Matching System Development Project"
+    description: "Built a job-matching system using Python, BeautifulSoup, and AWS, boosting recruiter efficiency, Utilized technologies like LLMs, OCR, Langchain, and NLPto enhance decision-making accuracy, Aimed to improve document analysis accuracy, with potential applications across various industries"
+    link: ""
+  
+  - name: "Coordinated Multi-Robots for Planetary Exploration"
+    description: "Selected for a cross-disciplinary team of ten to develop a low-cost Mars exploration robot for a NASA-funded project, Led software integration with a Scrum team, developing robust navigation software in an agile environment, Successfully raised $14,000 for AI-based object recognition and sensor integration, enhancing project capabilities"
+    link: "https://youtu.be/6fx1W3pyq2s?si=iYyVmNVWnQ4tav9d"
+
+  - name: "TensorFlow Projects"
+    description: "This repository contains a collection of projects demonstrating the power and versatility of TensorFlow for various machine learning tasks. Projects Overview: Image Classification, IMDB Sentiment Analysis"
+    link: "https://github.com/Shingo8843/TensorFlowProjects"
+
 achievements:
   - name: "[Achievement Name]"
     description: "[Achievement Description]"
@@ -127,42 +147,42 @@ interests:
   - "Image Generation Models"
 
 availability:
-  notice_period: "[Notice Period]"
+  notice_period: "2 weeks"
 
 salary_expectations:
-  salary_range_usd: "[Salary Range]"
+  salary_range_usd: "80000 - 110000"
 
 self_identification:
-  gender: "[Gender]"
-  pronouns: "[Pronouns]"
-  veteran: "[Yes/No]"
-  disability: "[Yes/No]"
-  ethnicity: "[Ethnicity]"
+  gender: "Male"
+  pronouns: "He/Him"
+  veteran: "No"
+  disability: "No"
+  ethnicity: "Asian"
 
 
 legal_authorization:
-  eu_work_authorization: "[Yes/No]"
-  us_work_authorization: "[Yes/No]"
-  requires_us_visa: "[Yes/No]"
-  requires_us_sponsorship: "[Yes/No]"
-  requires_eu_visa: "[Yes/No]"
-  legally_allowed_to_work_in_eu: "[Yes/No]"
-  legally_allowed_to_work_in_us: "[Yes/No]"
-  requires_eu_sponsorship: "[Yes/No]"
-  canada_work_authorization: "[Yes/No]"
-  requires_canada_visa: "[Yes/No]"
-  legally_allowed_to_work_in_canada: "[Yes/No]"
-  requires_canada_sponsorship: "[Yes/No]"
-  uk_work_authorization: "[Yes/No]"
-  requires_uk_visa: "[Yes/No]"
-  legally_allowed_to_work_in_uk: "[Yes/No]"
-  requires_uk_sponsorship: "[Yes/No]"
+  eu_work_authorization: "No"
+  us_work_authorization: "Yes"
+  requires_us_visa: "No"
+  requires_us_sponsorship: "No"
+  requires_eu_visa: "Yes"
+  legally_allowed_to_work_in_eu: "No"
+  legally_allowed_to_work_in_us: "Yes"
+  requires_eu_sponsorship: "Yes"
+  canada_work_authorization: "No"
+  requires_canada_visa: "Yes"
+  legally_allowed_to_work_in_canada: "No"
+  requires_canada_sponsorship: "Yes"
+  uk_work_authorization: "Yes"
+  requires_uk_visa: "Yes"
+  legally_allowed_to_work_in_uk: "No"
+  requires_uk_sponsorship: "Yes"
 
 
 work_preferences:
-  remote_work: "[Yes/No]"
-  in_person_work: "[Yes/No]"
-  open_to_relocation: "[Yes/No]"
-  willing_to_complete_assessments: "[Yes/No]"
-  willing_to_undergo_drug_tests: "[Yes/No]"
-  willing_to_undergo_background_checks: "[Yes/No]"
+  remote_work: "Yes"
+  in_person_work: "Yes"
+  open_to_relocation: "Yes"
+  willing_to_complete_assessments: "Yes"
+  willing_to_undergo_drug_tests: "Yes"
+  willing_to_undergo_background_checks: "Yes"
