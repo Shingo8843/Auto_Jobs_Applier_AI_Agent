@@ -3,7 +3,7 @@ hybrid: true
 onsite: true
 
 experience_level:
-  internship: false
+  internship: true
   entry: true
   associate: true
   mid_senior_level: true
@@ -14,34 +14,33 @@ job_types:
   full_time: true
   contract: false
   part_time: false
-  temporary: true
-  internship: false
+  temporary: false
+  internship: true
   other: false
-  volunteer: true
+  volunteer: false
 
 date:
-  all_time: false
+  all_time: true
   month: false
   week: false
   24_hours: true
 
 positions:
+  - AI engineer
+  - Full Stack AI Engineer
   - Software engineer
+  - Full Stack Software Engineer
 
 locations:
-  - Germany
+  - Los Angeles, CA
+  - San Diego, CA
 
 apply_once_at_company: true
 
 distance: 100
 
 company_blacklist:
-  - wayfair
-  - Crossover
 
 title_blacklist:
-  - word1
-  - word2
 
 location_blacklist:
-  - Brazil
